@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2022-08-08T22:49:50</DateModified>
+  <DateModified>2022-08-11T13:42:47</DateModified>
   <ModuleName>source1</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>/mnt/d/source/HDL/ISE/firstproject/iseconfig/source1.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>/mnt/d/source/HDL/ISE/firstproject</ImplementationReportsDirectory>
+  <ImplementationReportsDirectory>/mnt/d/source/HDL/ISE/firstproject/</ImplementationReportsDirectory>
   <DateInitialized>2022-08-08T22:49:49</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

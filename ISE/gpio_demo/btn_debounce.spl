@@ -1,0 +1,6 @@
+[Inputs]
+CLK
+=BTN_I[4:0]=
+[Outputs]
+=BTN_O[4:0]=
+[BiDir]
