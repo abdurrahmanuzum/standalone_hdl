@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Mon Mar 20 23:13:00 2023
+# Process ID: 14112
+# Current directory: D:/source/hdl/Vivado/almighty_blink/almighty_blink.runs/impl_1
+# Command line: vivado.exe -log top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source top.tcl -notrace
+# Log file: D:/source/hdl/Vivado/almighty_blink/almighty_blink.runs/impl_1/top.vdi
+# Journal file: D:/source/hdl/Vivado/almighty_blink/almighty_blink.runs/impl_1\vivado.jou
+# Running On: computer, OS: Windows, CPU Frequency: 1992 MHz, CPU Physical cores: 4, Host memory: 8354 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
